@@ -8,7 +8,7 @@ Created on Wed Mar 16 16:25:07 2016
 """
 A game and simulation.
 Please read article Bubblies
-http://1drv.ms/1pLS3Qa
+[Broken-link]
 """
 
 import random
